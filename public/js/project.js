@@ -13,6 +13,12 @@ const projects=[{
     category: 'cat1'
 },
 {
+    name: 'spaceX dashboard',
+    desc: ' RESTful nodejs app with implemetation of unofficial api for spaceX database consisting of all spaceX launches and rockets with filter mechanism ',
+    link: 'https://spacex-tech-dashboard.herokuapp.com/',
+    category: 'cat1'
+},
+{
     name: 'Cheem chat',
     desc: ' real time group communication application made with Nodejs and express , real time bidirectional communication library, Socket.io and HTML-CSS-JS, P5js library for interactive chat UI. ',
     link: 'http://cheem-chat.herokuapp.com/',
